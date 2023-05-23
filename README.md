@@ -1,16 +1,15 @@
-### Hi there 👋
+I'm a Passionate Full Stack Developer. Proactive, enthusiastic, and positive. Continuously seeking to learn, apply knowledge, and embrace challenges to empower projects. Open to new opportunities for collaboration and growth.
 
-<!--
-**EliasYanzon/EliasYanzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Skills:
 
-Here are some ideas to get you started:
+Full Stack web development Front-end technologies: HTML, CSS, JavaScript, ReactJs, TypeScript Back-end technologies: Node.js, Express Databases: MySQL, PostgreSQL Version control: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soft Skills:
+
+-Proactive: Taking initiative and finding solutions before problems arise. -Enthusiastic: Passionate about technology, always eager to take on new challenges. -Positive: Maintaining an optimistic attitude, even in challenging situations. -Empathetic: Understanding others' needs and effectively collaborating in teams.
+
+I'm excited to be part of challenging projects and collaborate with talented professionals. I'm always ready to learn and enhance my skills to achieve exceptional outcomes.
+
+Contact me:
+
+eliasmotog3@gmail.com
